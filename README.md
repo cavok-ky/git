@@ -1,2 +1,2 @@
-# git
-Summarize how to use git
+# git - Summarize how to use git
+---
